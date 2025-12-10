@@ -1,13 +1,27 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>タイトルを入力</title>
-  </head>
-  <body>
-    <div class="title">
-      <p>よおこそ</p>
-    </div>
+<html lang="ja">
+ <head>
+   <meta charset="UTF-8">
+   <title>ネギの戯言</title>
+   <meta name="description" content="東方と海洋学と音楽と">
+   <meta name="keywords" content="海洋,東方,ピアノ,音楽理論">
+ </head>
+ <body>
+   <header>トップページ</header>
+   <main>
+     <h1>よおこそ</h1>
+     <p>海洋学と東方二次創作と音楽の里</p>
+     <hr>
+     <article>
+       <ul>
+         <li><a href="">東方ピアノ楽譜</a></li>
+         <li><a href="">海洋学研究</a></li>
+         <li><a href="">音楽</a></li>
+       <ul>
+     </article>
+   </main>
+   <footer>
+    <p><small>2025年&emsp;管理人</small></p>
+   </footer>  
   </body>
 </html>
-  
