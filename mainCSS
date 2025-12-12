@@ -1,4 +1,18 @@
+body{
+  font-family: 'Noto Sans JP';
+}
+
 header{
-  background-color: #;
-  margin-bottom: ;
+  background-color: #0073a8;
+  color: #ffffff;
+  ul{
+    list-style-type: none;
+    li{
+      display: inline-block;
+      margin: 10px 10px 10px 10px;
+    }
+    a{
+      color: #ffffff;
+    }
+  }
 }
